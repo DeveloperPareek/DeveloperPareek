@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Architect
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to complete my whole study
-- 📫 How to reach me , bhilwara
+- 📫 How to reach me , Discord ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I am in class 11 
 
