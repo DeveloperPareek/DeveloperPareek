@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DeveloperPareek
-- 👀 I’m interested in Software Architect
-- 🌱 I’m currently learning C and C#
+- 👋 Hi, I’m @DeveloperPareek (Nishant)
+- 👀 I’m interested in AI engineering 
+- 🌱 I’m currently learning python ..
 - 💞️ I’m looking to complete my studies ..
-- 📫 How to reach me discord ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am in class 11
+- 📫 How to reach me discord ..  Pareek_16
+- 😄 Pronouns: ...HE/Him 
+- ⚡ Fun fact: I passed out 12th 
 
 <!---
 DeveloperPareek/DeveloperPareek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
